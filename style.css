@@ -110,9 +110,9 @@ body {
     max-width: 220px;
 }
 
-/* ========================= */
-/* ✅ CONTACT PERFECT ALIGN */
-/* ========================= */
+
+/*  CONTACT PERFECT ALIGN */
+
 
 .contact {
     background: #ffffff;
@@ -122,9 +122,9 @@ body {
     display: grid;
     grid-template-columns: 1fr 1.2fr;
     gap: 60px;
-    max-width: 900px;   /* 🔥 tighter width = better alignment */
+    max-width: 900px;  
     margin: 40px auto;
-    align-items: center; /* 🔥 vertical alignment fix */
+    align-items: center; 
 }
 
 /* LEFT SIDE */
@@ -207,9 +207,9 @@ body {
     color: #777;
 }
 
-/* ========================= */
-/* 📱 RESPONSIVE */
-/* ========================= */
+
+/* RESPONSIVE */
+
 
 @media (max-width: 768px) {
 
